@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Py Fest upgrade", "Py Fest upgrade\Py Fest upgrade.pyproj", "{81B78DF1-9E04-42F4-B4D4-8C6261F968FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B78DF1-9E04-42F4-B4D4-8C6261F968FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B78DF1-9E04-42F4-B4D4-8C6261F968FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB52CE36-ADC2-405D-A0A7-2B019575683C}
+	EndGlobalSection
+EndGlobal

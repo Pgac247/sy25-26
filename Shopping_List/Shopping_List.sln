@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Shopping_List", "Shopping_List\Shopping_List.pyproj", "{77D021F9-7AD6-49F0-9D9A-3BFCD654C55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D021F9-7AD6-49F0-9D9A-3BFCD654C55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D021F9-7AD6-49F0-9D9A-3BFCD654C55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B59C1F8-E8BD-40CB-AE6E-95E8D53634D9}
+	EndGlobalSection
+EndGlobal
