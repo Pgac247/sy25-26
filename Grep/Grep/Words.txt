@@ -1,0 +1,9 @@
+car 
+boat
+tree 
+food
+book
+cat
+rat
+burger
+house
